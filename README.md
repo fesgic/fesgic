@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 #### ⚡ My Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesgic&theme=algolia&show_icons=true&langs_count=9&layout=compact&exclude_repo=Kikuyu_English_Translator)](https://github.com/fesgic/github-readme-stats)
+
+![fesgic's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesgic&show_icons=true&theme=algolia)
 
 #### 🔭 I’m currently working on: 
 <p>(i) 100 days of hacking</p>
