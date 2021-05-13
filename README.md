@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### boynamedboy
+- 😄 Have a look at my porfolio ... https://fesgic.github.io
+- 🤔 I’m looking for help with: X86_64 bit assembly
+- ⚡ Fun fact: A boy has no bio
 <!--
 **fesgic/fesgic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +18,11 @@ Here are some ideas to get you started:
 -->
 
 #### ⚡ My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesgic&theme=algolia&show_icons=true&langs_count=9&layout=compact&exclude_repo=Kikuyu_English_Translator)](https://github.com/fesgic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesgic&show_icons=true&theme=algolia&langs_count=8&layout=compact&exclude_repo=Kikuyu_English_Translator)](https://github.com/fesgic/github-readme-stats)
 
-![fesgic's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesgic&show_icons=true&theme=algolia)
+[![fesgic's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesgic&show_icons=true&theme=algolia)](https://github.com/fesgic/github-readme-stats)
 
 #### 🔭 I’m currently working on: 
 <p>(i) 100 days of hacking</p>
 <p>(ii) Crypto</p>
 
-#### 🤔 I’m looking for help with: X86_64 bit assembly
-#### ⚡ Fun fact: A boy has no bio
