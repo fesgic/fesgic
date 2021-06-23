@@ -1,6 +1,8 @@
 ### Hi there 👋
-### boynamedboy
-- 😄 Have a look at my porfolio ... https://fesgic.github.io
+### boynamedboy <p align="left"> <img src="https://komarev.com/ghpvc/?username=fesgic" alt="boynamedboy" /> </p>
+
+
+- 😄 Have a look at my porfolio ... https://festusgichohi.netlify.app
 - 🤔 I’m looking for help with: X86_64 bit assembly
 - ⚡ Fun fact: A boy has no bio
 <!--
@@ -16,6 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
 
 #### ⚡ My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesgic&show_icons=true&theme=algolia&langs_count=8&layout=compact&exclude_repo=Kikuyu_English_Translator)](https://github.com/fesgic/github-readme-stats)
