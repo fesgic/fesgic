@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![fesgic's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesgic&show_icons=true&theme=algolia)](https://github.com/fesgic/github-readme-stats)
 
-[![Festus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fesgic&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Festus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fesgic&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔭 I’m currently working on: 
 <p>(i) 100 days of hacking</p>
