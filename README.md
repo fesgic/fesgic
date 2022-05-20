@@ -1,8 +1,9 @@
-### Hi there 👋
-### boynamedboy <p align="left"> <img src="https://komarev.com/ghpvc/?username=fesgic" alt="boynamedboy" /> </p>
+### Hi there 👋 Its me 👇👇👇
+
+## Boynamedboy <p align="left"> <img src="https://komarev.com/ghpvc/?username=fesgic" alt="boynamedboy" /> </p>
 
 
-- 😄 Have a look at my porfolio ... https://festusgichohi.netlify.app
+- 😄 Learning low level prog at the moment
 - 🤔 I’m looking for help with: X86_64 bit assembly
 - ⚡ Fun fact: A boy has no bio
 <!--
