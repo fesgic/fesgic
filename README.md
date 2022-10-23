@@ -2,6 +2,11 @@
 
 ## Boynamedboy <p align="left"> <img src="https://komarev.com/ghpvc/?username=fesgic" alt="boynamedboy" /> </p>
 
+<p>
+<a href="https://www.abuseipdb.com/user/94204" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/94204.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
+</a>
+</p>
 
 - 😄 Learning low level prog at the moment
 - 🤔 I’m looking for help with: X86_64 bit assembly
